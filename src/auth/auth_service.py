@@ -121,7 +121,7 @@ class AuthService:
     def create_session(self, user_id, title=None):
         try:
             current_time = datetime.now()
-            default_title = f"{current_time.strftime("%d-%m-%Y")} | {current_time.strftime("%H:%M:%S")}"
+            default_title = f"{current_time.strftime('%d-%m-%Y')} | {current_time.strftime('%H:%M:%S')}"
             
             session_data = {
                 'user_id': user_id,

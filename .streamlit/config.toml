@@ -1,2 +1,3 @@
-[server]
-maxUploadSize = 20
+SUPABASE_URL = "https://your-project.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6..."
+GROQ_API_KEY = "gsk_live_abc123yourapikey"

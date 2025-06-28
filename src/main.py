@@ -88,7 +88,7 @@ def main():
     # Main chat area
     if st.session_state.get('current_session'):
         st.title(f"📊 {st.session_state.current_session['title']}")
-        show_chat_history()
+        # show_chat_history() # Temporarily commented out for development
         show_analysis_form()
     else:
         show_welcome_screen()
