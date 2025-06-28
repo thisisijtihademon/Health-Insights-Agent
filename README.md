@@ -135,10 +135,3 @@ We appreciate all contributions, from reporting bugs and improving documentation
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙋‍♂️ Author
-
-Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
-=======
-# Health-Insights-Agent
->>>>>>> dee442649d63f1796179d1e7f625a926a7daaeb8
