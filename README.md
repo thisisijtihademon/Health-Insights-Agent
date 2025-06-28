@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 HIA (Health Insights Agent)
 
 AI Agent to analyze blood reports and provide detailed health insights.
@@ -146,3 +147,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙋‍♂️ Author
 
 Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
+=======
+# Health-Insights-Agent
+>>>>>>> dee442649d63f1796179d1e7f625a926a7daaeb8
